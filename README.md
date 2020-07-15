@@ -4,11 +4,25 @@ The workshops in the TextGraphs series have published and promoted the synergy b
 
 We are attempting the [TextGraphs-14 workshop](https://sites.google.com/view/textgraphs2020), part of Coling 2020.
 
-### Links:
-More information about the task held in TextGraphs 2020 can be found here:
+### Training
+Dataset and models can be found [here](https://drive.google.com/drive/folders/1qXA57-w_2In6BOeRfSpqeNFmMjVFoRy5).  
+Please submit and train all models in the link above.
 
-[1] https://competitions.codalab.org/competitions/23615 (Overview and Submission)  
-[2] https://competitions.codalab.org/forums/20311/ (Forums)  
-[3] https://github.com/cognitiveailab/tg2020task (Instructions and Baseline)  
-[4] This is the link to forum/discussion with officials. Any questions please refer this. https://competitions.codalab.org/forums/20311/3929/
+### Last Year:  
+  
+A paper summarizing the task and the submissions can be found [here](https://www.aclweb.org/anthology/D19-5309.pdf)  
+  
+The 4 submissions last year:  a
+- Explanation ReGeneration using Language Models and Iterative Re-Ranking: [Paper](https://www.aclweb.org/anthology/D19-5310.pdf)  
+- Red Dragon AI: Language Model Assisted Explanation Generation: [Paper](https://www.aclweb.org/anthology/D19-5311.pdf) and [Code](https://github.com/mdda/worldtree_corpus/tree/textgraphs)  
+- Team SVMrank: Leveraging Feature-rich Support Vector Machines: [Paper](https://www.aclweb.org/anthology/D19-5312.pdf) and [Code](https://github.com/jenlindadsouza/tg2019task)   
+- Chains-of-Reasoning: Reasoning over Chains of Facts for Explainable Multi-hop Inference: [Paper](https://www.aclweb.org/anthology/D19-5313.pdf) and [Code](https://github.com/ameyagodbole/multihop_inference_explanation_regeneration)   
+  
+### Links:  
+More information about the task held in TextGraphs 2020 can be found here:  
+  
+- https://competitions.codalab.org/competitions/23615 (Overview and Submission)  
+- https://competitions.codalab.org/forums/20311/ (Forums)  
+- https://github.com/cognitiveailab/tg2020task (Instructions and Baseline)  
+- This is the link to forum/discussion with officials. Any questions please refer this. https://competitions.codalab.org/forums/20311/3929/
 
