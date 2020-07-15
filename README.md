@@ -12,7 +12,7 @@ Please submit and train all models in the link above.
   
 A paper summarizing the task and the submissions can be found [here](https://www.aclweb.org/anthology/D19-5309.pdf)  
   
-The 4 submissions last year:  a
+The 4 submissions last year:  
 - Explanation ReGeneration using Language Models and Iterative Re-Ranking: [Paper](https://www.aclweb.org/anthology/D19-5310.pdf)  
 - Red Dragon AI: Language Model Assisted Explanation Generation: [Paper](https://www.aclweb.org/anthology/D19-5311.pdf) and [Code](https://github.com/mdda/worldtree_corpus/tree/textgraphs)  
 - Team SVMrank: Leveraging Feature-rich Support Vector Machines: [Paper](https://www.aclweb.org/anthology/D19-5312.pdf) and [Code](https://github.com/jenlindadsouza/tg2019task)   
