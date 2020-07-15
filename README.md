@@ -6,7 +6,7 @@ We are attempting the [TextGraphs-14 workshop](https://sites.google.com/view/tex
 
 ### Training
 Dataset and models can be found [here](https://drive.google.com/drive/folders/1qXA57-w_2In6BOeRfSpqeNFmMjVFoRy5).  
-Please submit and train all models in the link above.
+We have submitted and trained all models in the link above.
 
 ### Last Year:  
   
