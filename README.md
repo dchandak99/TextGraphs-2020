@@ -6,7 +6,11 @@ We are attempting the shared task on **Multi-Hop Inference for Explanation Regen
 
 ### Training
 Dataset and models can be found [here](https://drive.google.com/drive/folders/1qXA57-w_2In6BOeRfSpqeNFmMjVFoRy5).  
-We are submitting and training all our models in the link above.
+Please submit and train all models in the link above.
+
+### Result:
+Results of different models on the test, train and dev dataset can be found [here](https://docs.google.com/spreadsheets/d/15AJtu01gqGbNNdtAbvJdwc5gpJejhe_iCWBqs5Po-M8/edit#gid=0).  
+The results have been in terms of the **MAP** scores.
 
 ### Last Year:  
   
