@@ -30,3 +30,8 @@ More information about the task held in TextGraphs 2020 can be found here:
 - https://github.com/cognitiveailab/tg2020task (Instructions and Baseline)  
 - This is the link to forum/discussion with officials. Any questions please refer this. https://competitions.codalab.org/forums/20311/3929/
 
+### TF-IDF improvements:  
+- [Improvement of TF-IDF Algorithm Based on Knowledge Graph](https://www.researchgate.net/publication/328995625_Improvement_of_TF-IDF_Algorithm_Based_on_Knowledge_Graph/link/5cfccbca299bf13a3848bbe6/download)  
+- [An Improved TF-IDF algorithm based on word frequency distribution information and category distribution information](https://dl.acm.org/doi/abs/10.1145/3232116.3232152)  
+- [BNS Feature Scaling: An Improved Representation over TF·IDF for SVM Text Classification](https://www.hpl.hp.com/techreports/2007/HPL-2007-32R1.pdf)  
+- [Improvement of term frequency-inverse document frequency algorithm based on Document Triage](http://en.cnki.com.cn/Article_en/CJFDTotal-JSJY201512039.htm)  
