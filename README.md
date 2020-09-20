@@ -4,10 +4,6 @@ The workshops in the TextGraphs series have published and promoted the synergy b
 
 We are attempting the shared task on **Multi-Hop Inference for Explanation Regeneration** at the [TextGraphs-14 workshop](https://sites.google.com/view/textgraphs2020), part of Coling 2020.
 
-### Training
-Dataset and models can be found [here](https://drive.google.com/drive/folders/1qXA57-w_2In6BOeRfSpqeNFmMjVFoRy5).  
-Please submit and train all models in the link above.
-
 ### Result:
 Results of different models on the test, train and dev dataset can be found [here](https://docs.google.com/spreadsheets/d/15AJtu01gqGbNNdtAbvJdwc5gpJejhe_iCWBqs5Po-M8/edit#gid=0).  
 The results have been in terms of the **MAP** scores.
