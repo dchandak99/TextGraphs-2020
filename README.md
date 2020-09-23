@@ -9,8 +9,18 @@ We are attempting the shared task on **Multi-Hop Inference for Explanation Regen
 The Explanation Regeneration shared task asked participants to develop methods to reconstruct gold explanations for elementary science questions (Clark et al., 2018), using a new corpus of gold explanations (Jansen et al., 2018) that provides supervision and instrumentation for this multi-hop inference task. Each explanation is represented as an “explanation graph”, a set of atomic facts (between 1 and 16 per explanation, drawn from a knowledge base of 5,000 facts) that, together, form a detailed explanation for the reasoning required to answer and explain the resoning behind a question. Linking these facts to achieve strong performance at rebuilding the gold explanation graphs requires methods to perform multi-hop inference - which has been shown to be far harder than inference of smaller numbers of hops (Jansen, 2018), particularly for the case here, where there is considerable uncertainty (at a lexical level) of how individual explanations logically link somewhat ‘fuzzy’ graph nodes.
 
 ### Result:
-Results of different models on the test, train and dev dataset can be found here.
-The results have been in terms of the **MAP** scores.
+Results of different models on the test, train and dev dataset can be found here:
+The results have been in terms of the **MAP** scores.  
+
+|  Method      | Train     | Dev    | Test     | 
+|--------------|-----------|--------|----------|
+|    tf hub    |     0.321 |   0.34 |     0.31 |
+|          1.0 |      0.93 |   0.90 |     0.91 |  
+|              |           |        |          |         
+|     accuracy |           |        |     0.91 |   
+|    macro avg |      0.91 |   0.91 |     0.91 | 
+| weighted avg |      0.91 |   0.91 |     0.91 |  
+
 
 ### Last Year:  
   
