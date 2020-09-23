@@ -34,4 +34,8 @@ The 4 submissions last year:
   
 ### Links:  
 More information about the task held in TextGraphs 2020 can be found here:  
+  
+- https://competitions.codalab.org/competitions/23615 (Overview and Submission)  
+- https://competitions.codalab.org/forums/20311/ (Forums)  
 - https://github.com/cognitiveailab/tg2020task (Instructions and Baseline)  
+- This is the link to forum/discussion with officials. Any questions please refer this. https://competitions.codalab.org/forums/20311/3929/
