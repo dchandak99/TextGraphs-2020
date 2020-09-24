@@ -17,7 +17,7 @@ The results have been in terms of the **MAP** scores.
 |  Method          | Train     | Dev    | Test     | 
 |------------------|-----------|--------|----------|
 |    tf hub        |     0.321 |   0.34 |     0.31 |
-|Sentence BERT     |     0.24  |  0.253 |     0.31 |
+|Sentence BERT     |     0.24  |  0.253 |          |
 |tf-idf (sublinear)|           |  0.343 |     0.33 |
 | Recursive tf.idf |           |  0.477 |          |
 |    tf hub        |     0.321 |   0.34 |     0.31 |
