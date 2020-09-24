@@ -14,15 +14,14 @@ The Explanation Regeneration shared task asked participants to develop methods t
 Results of different models on the test, train and dev dataset can be found here:
 The results have been in terms of the **MAP** scores.  
 
-|  Method      | Train     | Dev    | Test     | 
-|--------------|-----------|--------|----------|
-|    tf hub    |     0.321 |   0.34 |     0.31 |
-|          1.0 |      0.93 |   0.90 |     0.91 |  
-|              |           |        |          |         
-|     accuracy |           |        |     0.91 |   
-|    macro avg |      0.91 |   0.91 |     0.91 | 
-| weighted avg |      0.91 |   0.91 |     0.91 |  
-
+|  Method          | Train     | Dev    | Test     | 
+|------------------|-----------|--------|----------|
+|    tf hub        |     0.321 |   0.34 |     0.31 |
+|Sentence BERT     |     0.24  |  0.253 |     0.31 |
+|tf-idf (sublinear)|           |  0.343 |     0.33 |
+| Recursive tf.idf |           |  0.477 |          |
+|    tf hub        |     0.321 |   0.34 |     0.31 |
+|    tf hub        |     0.321 |   0.34 |     0.31 |
 
 ### Last Year:  
   
