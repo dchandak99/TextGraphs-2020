@@ -33,7 +33,12 @@ Our Final Leaderboard Test MAP: **0.4902**
 ## Reproducing Results  
 ### File descriptions:  
 Supplementary files including data and trained models can be found here (Link to be added).  
-
+[baseline_model.py](baseline_model.py):  
+[utils.py](utils.py):  
+[paths.py](paths.py):  
+[rank.py](rank.py):  
+[train_and_eval_functions.py](train_and_eval_functions.py):  
+[RUN_model.ipynb](RUN_model.ipynb):  
 
 ### How to Run:  
 Instructions on how to run, and meaning of the functions have been given in this interative [notebook](RUN_model.ipynb).
