@@ -29,7 +29,7 @@ The results have been in terms of the **MAP** scores.
 Supplementary files including data and trained models can be found here (Link to be added).  
 
 ### How to Run:  
-
+Instructions on how to run, and meaning of the functions have been given in this interative [notebook](RUN_model.ipynb).
 
 ## Acknowledgements  
 A huge thanks to the organizers Peter Jansen and Dmitry Ustalov for curating this super interesting task.  
