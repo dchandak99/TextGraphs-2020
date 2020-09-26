@@ -25,6 +25,9 @@ The results have been in terms of the **MAP** scores.
 |    tf hub        |     0.321 |   0.34 |     0.31 |
 |    tf hub        |     0.321 |   0.34 |     0.31 |
 
+## Reproducing Results  
+Supplementary files including data and trained models can be found [here]().
+
 ## Acknowledgements  
 A huge thanks to the organizers Peter Jansen and Dmitry Ustalov for curating this super interesting task.  
 
