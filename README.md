@@ -1,4 +1,4 @@
-# TextGraphs-14: COLING 2020
+# ChiSquareX_at_TextGraphs-14: COLING 2020
 
 ## Multi-Hop Inference for Explanation Regeneration
 This is our attempt of the shared task on **Multi-Hop Inference for Explanation Regeneration** at the [TextGraphs-14 workshop](https://sites.google.com/view/textgraphs2020), part of Coling 2020.
@@ -7,10 +7,10 @@ The workshops in the TextGraphs series have published and promoted the synergy b
 
 Official repository of the task can be found [here](https://github.com/cognitiveailab/tg2020task).
 
-### Introduction:  
+## Introduction  
 The Explanation Regeneration shared task asked participants to develop methods to reconstruct gold explanations for elementary science questions (Clark et al., 2018), using a new corpus of gold explanations (Jansen et al., 2018) that provides supervision and instrumentation for this multi-hop inference task. Each explanation is represented as an “explanation graph”, a set of atomic facts (between 1 and 16 per explanation, drawn from a knowledge base of 5,000 facts) that, together, form a detailed explanation for the reasoning required to answer and explain the resoning behind a question. Linking these facts to achieve strong performance at rebuilding the gold explanation graphs requires methods to perform multi-hop inference - which has been shown to be far harder than inference of smaller numbers of hops (Jansen, 2018), particularly for the case here, where there is considerable uncertainty (at a lexical level) of how individual explanations logically link somewhat ‘fuzzy’ graph nodes.
 
-### Result:
+## Result  
 Results of different models on the test, train and dev dataset can be found here:
 The results have been in terms of the **MAP** scores.  
 
