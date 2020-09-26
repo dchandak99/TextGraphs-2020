@@ -22,7 +22,11 @@ The results have been in terms of the **MAP** scores.
 |Sentence BERT     |     0.24  |  0.253 |          |
 |tf-idf (sublinear)|           |  0.343 |     0.33 |
 | Recursive tf.idf |           |  0.477 |          |
-|    tf hub        |     0.321 |   0.34 |     0.31 |
+|    BERT          |           |        |          |
+|    BART          |           |        |          |
+|   Longformer     |           |        |          |
+|    Scibert       |           |        |          |
+|    Roberta       |           |        |          |
 
 Our Final Leaderboard Test MAP: **0.4902**
 
