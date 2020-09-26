@@ -23,7 +23,8 @@ The results have been in terms of the **MAP** scores.
 |tf-idf (sublinear)|           |  0.343 |     0.33 |
 | Recursive tf.idf |           |  0.477 |          |
 |    tf hub        |     0.321 |   0.34 |     0.31 |
-|    tf hub        |     0.321 |   0.34 |     0.31 |
+
+Our Final Leaderboard Test MAP: **0.4902**
 
 ## Reproducing Results  
 Supplementary files including data and trained models can be found here (Link to be added).  
