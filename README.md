@@ -1,4 +1,4 @@
-# ChiSquareX_at_TextGraphs-14: COLING 2020
+# ChiSquareX at TextGraphs-14: COLING 2020
 
 ## Multi-Hop Inference for Explanation Regeneration
 This is our attempt of the shared task on **Multi-Hop Inference for Explanation Regeneration** at the [TextGraphs-14 workshop](https://sites.google.com/view/textgraphs2020), part of Coling 2020.
