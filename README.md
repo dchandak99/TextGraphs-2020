@@ -23,20 +23,7 @@ The results have been in terms of the **MAP** scores.
 |    tf hub        |     0.321 |   0.34 |     0.31 |
 |    tf hub        |     0.321 |   0.34 |     0.31 |
 
-### Last Year:  
-  
-A paper summarizing the task and the submissions can be found [here](https://www.aclweb.org/anthology/D19-5309.pdf)  
-  
-The 4 submissions last year:  
-- Explanation ReGeneration using Language Models and Iterative Re-Ranking: [Paper](https://www.aclweb.org/anthology/D19-5310.pdf)  
-- Red Dragon AI: Language Model Assisted Explanation Generation: [Paper](https://www.aclweb.org/anthology/D19-5311.pdf) and [Code](https://github.com/mdda/worldtree_corpus/tree/textgraphs)  
-- Team SVMrank: Leveraging Feature-rich Support Vector Machines: [Paper](https://www.aclweb.org/anthology/D19-5312.pdf) and [Code](https://github.com/jenlindadsouza/tg2019task)   
-- Chains-of-Reasoning: Reasoning over Chains of Facts for Explainable Multi-hop Inference: [Paper](https://www.aclweb.org/anthology/D19-5313.pdf) and [Code](https://github.com/ameyagodbole/multihop_inference_explanation_regeneration)   
-  
-### Links:  
-More information about the task held in TextGraphs 2020 can be found here:  
-  
-- https://competitions.codalab.org/competitions/23615 (Overview and Submission)  
-- https://competitions.codalab.org/forums/20311/ (Forums)  
-- https://github.com/cognitiveailab/tg2020task (Instructions and Baseline)  
-- This is the link to forum/discussion with officials. Any questions please refer this. https://competitions.codalab.org/forums/20311/3929/
+## Acknowledgements  
+A huge thanks to the organizers Peter Jansen and Dmitry Ustalov for curating this super interesting task.  
+
+A big thanks to **Hugging Face** for their excellent [transformers](https://github.com/huggingface/transformers) repository. A lot of the code is built on top of their examples.
