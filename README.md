@@ -33,7 +33,7 @@ Our Final Leaderboard Test MAP: **0.4902**
 ## Reproducing Results  
 ### File descriptions:  
 Supplementary files including data and trained models can be found here (Link to be added).  
-[baseline_model.py](baseline_model.py):  
+[baseline_model.py](baseline_model.py):  Uses a baseline that uses a term frequency model (tf.idf) to rank how likely table row sentences are to be a part of a given explanation. The performance of this baseline on the development partition is 0.255 MAP.  
 [utils.py](utils.py):  
 [paths.py](paths.py):  
 [rank.py](rank.py):  
