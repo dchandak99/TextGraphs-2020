@@ -37,7 +37,8 @@ Supplementary files including data and trained models can be found here (Link to
 
 - [utils.py](utils.py):  contains basic utility functions involved in preprocessing and data in relevant format.  
 
-- [paths.py](paths.py):  
+- [paths.py](paths.py):  returns paths of the train, validation and test dataset.  
+
 - [rank.py](rank.py):  
 - [train_and_eval_functions.py](train_and_eval_functions.py):  contains functions for training the model and evaluating the accuracy on the dataset.  
 
