@@ -39,7 +39,8 @@ Supplementary files including data and trained models can be found here (Link to
 
 - [paths.py](paths.py):  returns paths of the train, validation and test dataset.  
 
-- [rank.py](rank.py):  
+- [rank.py](rank.py):  contains function to perform tf.idf ranking and also using the recursive variant to simulate hops amongst graph nodes.  Also, has functions to rank the predicted explanations for each question.  
+
 - [train_and_eval_functions.py](train_and_eval_functions.py):  contains functions for training the model and evaluating the accuracy on the dataset.  
 
 - [RUN_model.ipynb](RUN_model.ipynb):  Invokes all of the above in an interactve format to show the resulting MAP.  
