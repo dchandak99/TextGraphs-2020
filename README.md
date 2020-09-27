@@ -8,7 +8,7 @@ The workshops in the TextGraphs series have published and promoted the synergy b
 Official repository of the task can be found [here](https://github.com/cognitiveailab/tg2020task).
 
 ### Paper:  
-Our paper can be found [here]().
+Our paper can be found [here]().  
 Our presentation for the conference can be found [here]()
 
 ## Introduction  
