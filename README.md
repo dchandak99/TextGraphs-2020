@@ -22,7 +22,7 @@ The Explanation Regeneration shared task asked participants to develop methods t
 Results of different models on the test, train and dev dataset can be found here:
 The results have been in terms of the **MAP** scores.  
 
-|  Method          | Train     | Dev    | Test     | 
+|  Method/Model    | Train     | Dev    | Test     | 
 |------------------|-----------|--------|----------|
 |    tf hub        |     0.321 |   0.34 |     0.31 |
 |Sentence BERT     |     0.24  |  0.253 |          |
