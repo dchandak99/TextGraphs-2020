@@ -9,7 +9,7 @@ Official repository of the task can be found [here](https://github.com/cognitive
 
 ### Paper:  
 Our paper can be found [here]().  
-Our presentation for the conference can be found [here]()
+Our presentation for the conference can be found [here]().
 
 ## Introduction  
 Multi-hop inference is the task of combining more than one piece of information to solve an inference task, such as question answering. This can take many forms, from combining free-text sentences read from books or the web, to combining linked facts from a structured knowledge base.  
