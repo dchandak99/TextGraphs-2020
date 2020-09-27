@@ -20,7 +20,7 @@ The Explanation Regeneration shared task asked participants to develop methods t
 
 ## Results  
 Results of different models on the test, train and dev dataset can be found here:
-The results have been in terms of the **MAP** scores.  
+The results have been in terms of the **MAP** (mean average precision) scores.  
 
 |  Method/Model    | Train     | Dev    | Test     | 
 |------------------|-----------|--------|----------|
