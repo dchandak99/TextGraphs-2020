@@ -29,10 +29,12 @@ The results have been in terms of the **MAP** (mean average precision) scores.
 |tf-idf (sublinear)|           |  0.343 |     0.33 |
 | Recursive tf.idf |           |  0.477 |          |
 |    BERT          |           |        |          |
-|    BART          |           |        |          |
-|   Longformer     |           |        |          |
-|    Scibert       |           |        |          |
-|    Roberta       |           |        |          |
+|    BART          |   0.67    |        |          |
+|   Distilbert     |   0.605   |        |          |
+|    Scibert       |   0.63    |        |          |
+|    Roberta       |   0.63    |        |          |
+|  Bert_classifier |   0.63    |        |          |
+|    Electra       |   0.63    |        |          |
 
 Our Final Leaderboard Test MAP: **0.4902**
 
