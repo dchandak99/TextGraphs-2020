@@ -1,4 +1,4 @@
-# ChiSquareX at TextGraphs-14: COLING 2020
+# ChiSquareX at TextGraphs 2020 Shared Task: Leveraging Pretrained Language Models for Explanation Regeneration
 
 ## Leveraging Pretrained Language Models for Explanation Regeneration  
 This is our attempt of the shared task on **Multi-Hop Inference for Explanation Regeneration** at the [TextGraphs-14 workshop](https://sites.google.com/view/textgraphs2020), part of Coling 2020.  
