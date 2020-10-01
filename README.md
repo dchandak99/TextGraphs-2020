@@ -7,13 +7,13 @@ The workshops in the TextGraphs series have published and promoted the synergy b
 Official repository of the task can be found [here](https://github.com/cognitiveailab/tg2020task).
 
 ### Sections
-1. [System description report](#system-description-report)
+1. [System description paper](#system-description-paper)
 2. [Results](#results)
 3. [Reproducing results](#reproducing-results)
 4. [Task Details](#task-details)
 5. [Acknowledgements](#acknowledgements)
 
-## System Description Report:  
+## System Description Paper  
 Our paper can be found [here]().  
 Our presentation for the conference can be found [here]().
 
