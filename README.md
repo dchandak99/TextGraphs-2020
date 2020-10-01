@@ -312,20 +312,23 @@ Please submit your solutions via CodaLab: <https://competitions.codalab.org/comp
 Contacts
 --------------------
 
-We welcome questions and answers on the shared task on GitHub: <https://github.com/cognitiveailab/tg2020task/issues>.
+We welcome questions and answers on the shared task on CodaLab Forums: https://competitions.codalab.org/forums/20311/.
 
 To contact the task organizers directly, please send an email to [textgraphsoc@gmail.com](mailto:textgraphsoc@gmail.com).
 
 Terms and Conditions
 --------------------
 
-By submitting results to this competition, you consent to the public release of your scores at the TextGraph-13 workshop and in the associated proceedings, at the task organizers' discretion. Scores may include, but are not limited to, automatic and manual quantitative judgements, qualitative judgements, and such other metrics as the task organizers see fit. You accept that the ultimate decision of metric choice and score value is that of the task organizers.
+By submitting results to this competition, you consent to the public release of your scores at the TextGraph-14 workshop and in the associated proceedings, at the task organizers' discretion. Scores may include, but are not limited to, automatic and manual quantitative judgements, qualitative judgements, and such other metrics as the task organizers see fit. You accept that the ultimate decision of metric choice and score value is that of the task organizers.  
 
-You further agree that the task organizers are under no obligation to release scores and that scores may be withheld if it is the task organizers' judgement that the submission was incomplete, erroneous, deceptive, or violated the letter or spirit of the competition's rules. Inclusion of a submission's scores is not an endorsement of a team or individual's submission, system, or science.
+You further agree that the task organizers are under no obligation to release scores and that scores may be withheld if it is the task organizers' judgement that the submission was incomplete, erroneous, deceptive, or violated the letter or spirit of the competition's rules. Inclusion of a submission's scores is not an endorsement of a team or individual's submission, system, or science.  
 
-You further agree that your system may be named according to the team name provided at the time of submission, or to a suitable shorthand as determined by the task organizers.
+You further agree that your system may be named according to the team name provided at the time of submission, or to a suitable shorthand as determined by the task organizers.  
 
-You agree not to use or redistribute the shared task data except in the manner prescribed by its licence.
+You agree not to use or redistribute the shared task data except in the manner prescribed by its licence.  
+
+**To encourage transparency and replicability, all teams must publish their code, tuning procedures, and instructions for running their models with their submission of shared task papers.**
+
 </p>
 </details>
 
