@@ -154,7 +154,7 @@ Participating systems are asked to perform an *explanation reconstruction* task,
 
 ### Follow-through Example
 Given the following question (top) and it's gold explanation graph (bottom):
-![Example explanation graph](images/example-ice-melting.png)
+![Example explanation graph](https://github.com/dchandak99/multihop_inference_explanation_regeneration/blob/master/images/example-ice-melting.png)
 
 An example of ranking each of the ~5000 sentences in the Tablestore knowledge base to attempt to rebuild this explanation is as follows.  We see that some of the gold explanation sentences are ranked near the top (e.g. melting is a kind of process (rank 1), an ice cube is a kind of solid (rank 7), melting means changing from a solid to a liquid by adding heat energy (rank 18)). A number of other sentences in the gold explanation are ranked much lower (53, 102, 384, 408, 858, 860, 3778, 3956).  The mean average precision for this ranking on this question is 0.148.  When considering only the central questions in the explanation, the mean average precision increases to 0.195.
 
