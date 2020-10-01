@@ -38,6 +38,34 @@ The results have been in terms of the **MAP** (mean average precision) scores.
 Our Final Leaderboard Test MAP: **0.4902**
 
 ## Reproducing Results  
+Ensure the following directory structure:
+
+```bash
+├── annotation/ (same as the annotation directory in the data set)
+├── questions/
+|    ├── ARC-Elementary+EXPL-Train.tsv
+|    ├── ARC-Elementary+EXPL-Dev.tsv
+|    ├── ARC-Elementary+EXPL-Test-Masked.tsv
+|    ├── all_facts.tsv
+|    └── fact_usage_frequency.pkl
+├── fact_graph/ (unzip the zip file provided)
+├── predictions/
+├── README.md
+├── run_best_settings.sh
+├── bert_reranker.py
+├── bert_path_ranker.py
+├── ensemble.py
+├── evaluate.py
+├── baseline_tfidf.py
+├── Makefile
+├── images/
+├── cfp.txt
+├── worldtree_corpus.sha256
+├── requirements.txt
+└── LICENSE
+
+```
+
 ### File descriptions:  
 Supplementary files including data and trained models can be found here (Link to be added).  
 - [baseline_model.py](baseline_model.py):  Uses a baseline that uses a term frequency model (tf.idf) to rank how likely table row sentences are to be a part of a given explanation. The performance of this baseline on the development partition is 0.255 MAP.  
