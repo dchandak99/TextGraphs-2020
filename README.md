@@ -291,13 +291,13 @@ A Scala tf.idf baseline that achieves a MAP of 0.28 is available at:
 Explanation graphs vary in size (1-16 facts, an average of 6 facts per explanation), and in their connectivity properties.  Some are relatively simple, while others are complex.  Here are additional examples:
 
 A straightforward chaining of facts:
-![Example explanation graph](images/example-simpler-insect6legs.png)
+![Example explanation graph](https://github.com/dchandak99/multihop_inference_explanation_regeneration/blob/master/images/example-simpler-insect6legs.png)
 
 An example of a list question:
-![Example explanation graph](images/example-list-cloudsfogmadeof.png)
+![Example explanation graph](https://github.com/dchandak99/multihop_inference_explanation_regeneration/blob/master/images/example-list-cloudsfogmadeof.png)
 
 An example of a hard question with many facts in the explanation, including a lot of challenging commonsense/world knowledge: 
-![Example explanation graph](images/example-hard-treesurviveforestfire.png)
+![Example explanation graph](https://github.com/dchandak99/multihop_inference_explanation_regeneration/blob/master/images/example-hard-treesurviveforestfire.png)
 </p>
 </details>
 
@@ -307,12 +307,12 @@ An example of a hard question with many facts in the explanation, including a lo
 Submission
 --------------------
 
-Please submit your solutions via CodaLab: <https://competitions.codalab.org/competitions/20150>
+Please submit your solutions via CodaLab: <https://competitions.codalab.org/competitions/23615>
 
 Contacts
 --------------------
 
-We welcome questions and answers on the shared task on GitHub: <https://github.com/umanlp/tg2019task/issues>.
+We welcome questions and answers on the shared task on GitHub: <https://github.com/cognitiveailab/tg2020task/issues>.
 
 To contact the task organizers directly, please send an email to [textgraphsoc@gmail.com](mailto:textgraphsoc@gmail.com).
 
