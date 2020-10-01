@@ -58,7 +58,7 @@ Instructions on how to run, and meaning of the functions have been given in this
 
 ## Task Details:
 
-TextGraphs-13 Shared Task on Multi-Hop Inference Explanation Regeneration
+TextGraphs-14 Shared Task on Multi-Hop Inference Explanation Regeneration
 =========================================================================
 
 <details><summary><b>Overview</b></summary>
@@ -126,7 +126,7 @@ Many of these contemporary methodological challenges are potentially now address
 * 11-09-2019: Deadline for reviews of system description papers
 * 19-09-2019: Author notifications
 * 30-09-2019: Camera-ready description paper deadline
-* __03-11-2019/04-11-2019__: [TextGraphs-13 workshop](https://sites.google.com/view/textgraphs2019)
+* __03-11-2019/04-11-2019__: [TextGraphs-14 workshop](https://sites.google.com/view/textgraphs2020)
 
 The dates are specified in the following format: `day-month-year`.
 </p>
