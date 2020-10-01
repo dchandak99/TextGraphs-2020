@@ -118,17 +118,16 @@ Many of these contemporary methodological challenges are potentially now address
 <details><summary><b>Important Dates</b></summary>
 <p>
 
-* 13-05-2019: Example (trial) data release
-* 17-05-2019: Training data release
-* 12-07-2019: Test data release; Evaluation start
-* 09-08-2019: Evaluation end
-* 23-08-2019: System description paper deadline
-* 11-09-2019: Deadline for reviews of system description papers
-* 19-09-2019: Author notifications
-* 30-09-2019: Camera-ready description paper deadline
-* __03-11-2019/04-11-2019__: [TextGraphs-14 workshop](https://sites.google.com/view/textgraphs2020)
+* 2020-03-06: Training data release
+* 2020-04-06: Test data release; Evaluation start
+* 2020-09-21: Evaluation end
+* 2020-10-02: System description paper deadline
+* 2020-10-18: Deadline for reviews of system description papers
+* 2020-10-25: Author notifications
+* 2020-11-01: Camera-ready description paper deadline
+* 2020-12-13: [TextGraphs-14 workshop](https://sites.google.com/view/textgraphs2020)
 
-The dates are specified in the following format: `day-month-year`.
+Dates are specified in the ISO 8601 format.
 </p>
 </details>
 
