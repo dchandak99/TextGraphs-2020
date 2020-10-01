@@ -338,17 +338,24 @@ You agree not to use or redistribute the shared task data except in the manner p
 * Jansen P. and Ustalov D. [TextGraphs 2019 Shared Task on Multi-Hop Inference for Explanation Regeneration](https://www.aclweb.org/anthology/D19-5309). *Proceedings of the Thirteenth Workshop on Graph-Based Methods for Natural Language Processing (TextGraphs-13).* Hong Kong: Association for Computational Linguistics, 2019, pp. 63&ndash;77.
 
 ```
-@inproceedings{Jansen:19,
-  author    = {Jansen, Peter and Ustalov, Dmitry},
-  title     = {{TextGraphs~2019 Shared Task on Multi-Hop Inference for Explanation Regeneration}},
-  booktitle = {Proceedings of the Thirteenth Workshop on Graph-Based Methods for Natural Language Processing (TextGraphs-13)},
-  year      = {2019},
-  pages     = {63--77},
-  url       = {https://www.aclweb.org/anthology/D19-5309},
-  isbn      = {978-1-950737-86-4},
-  address   = {Hong Kong},
-  publisher = {Association for Computational Linguistics},
-  language  = {english},
+@inproceedings{Xie2020WorldTreeVA,
+    title = "{W}orld{T}ree V2: A Corpus of Science-Domain Structured Explanations and Inference Patterns supporting Multi-Hop Inference",
+    author = "Xie, Zhengnan  and
+      Thiem, Sebastian  and
+      Martin, Jaycie  and
+      Wainwright, Elizabeth  and
+      Marmorstein, Steven  and
+      Jansen, Peter",
+    booktitle = "Proceedings of the 12th Language Resources and Evaluation Conference",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://www.aclweb.org/anthology/2020.lrec-1.671",
+    pages = "5456--5473",
+    abstract = "Explainable question answering for complex questions often requires combining large numbers of facts to answer a question while providing a human-readable explanation for the answer, a process known as multi-hop inference. Standardized science questions require combining an average of 6 facts, and as many as 16 facts, in order to answer and explain, but most existing datasets for multi-hop reasoning focus on combining only two facts, significantly limiting the ability of multi-hop inference algorithms to learn to generate large inferences. In this work we present the second iteration of the WorldTree project, a corpus of 5,114 standardized science exam questions paired with large detailed multi-fact explanations that combine core scientific knowledge and world knowledge. Each explanation is represented as a lexically-connected {``}explanation graph{''} that combines an average of 6 facts drawn from a semi-structured knowledge base of 9,216 facts across 66 tables. We use this explanation corpus to author a set of 344 high-level science domain inference patterns similar to semantic frames supporting multi-hop inference. Together, these resources provide training data and instrumentation for developing many-fact multi-hop inference models for question answering.",
+    language = "English",
+    ISBN = "979-10-95546-34-4",
 }
 ```
 </p>
