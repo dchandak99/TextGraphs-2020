@@ -56,6 +56,5 @@ Supplementary files including data and trained models can be found here (Link to
 Instructions on how to run, and meaning of the functions have been given in this interative [notebook](RUN_model.ipynb).
 
 ## Acknowledgements  
-A huge thanks to the organizers Peter Jansen and Dmitry Ustalov for curating this super interesting task.  
-
+A huge thanks to the organizers Peter Jansen and Dmitry Ustalov for creating this wonderful task.  
 A big thanks to **Hugging Face** for their excellent [transformers](https://github.com/huggingface/transformers) repository. A lot of the code is built on top of their examples.
