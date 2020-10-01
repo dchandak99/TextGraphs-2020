@@ -17,13 +17,6 @@ Official repository of the task can be found [here](https://github.com/cognitive
 Our paper can be found [here]().  
 Our presentation for the conference can be found [here]().
 
-## Introduction  
-Multi-hop inference is the task of combining more than one piece of information to solve an inference task, such as question answering. This can take many forms, from combining free-text sentences read from books or the web, to combining linked facts from a structured knowledge base.  
-
-![Example explanation graph](https://raw.githubusercontent.com/dchandak99/tg2020task/master/images/example-girl-eating-apple.jpg)  
-
-The Explanation Regeneration shared task asked participants to develop methods to reconstruct gold explanations for elementary science questions (Clark et al., 2018), using a new corpus of gold explanations (Jansen et al., 2018) that provides supervision and instrumentation for this multi-hop inference task. Each explanation is represented as an “explanation graph”, a set of atomic facts (between 1 and 16 per explanation, drawn from a knowledge base of 5,000 facts) that, together, form a detailed explanation for the reasoning required to answer and explain the resoning behind a question. Linking these facts to achieve strong performance at rebuilding the gold explanation graphs requires methods to perform multi-hop inference - which has been shown to be far harder than inference of smaller numbers of hops (Jansen, 2018), particularly for the case here, where there is considerable uncertainty (at a lexical level) of how individual explanations logically link somewhat ‘fuzzy’ graph nodes. The explanations include both core scientific facts as well as detailed world knowledge, allowing this task to appeal to those interested in both multi-hop reasoning and common-sense inference.  
-
 ## Results  
 Results of different models on the test, train and dev dataset can be found here:
 The results have been in terms of the **MAP** (mean average precision) scores.  
@@ -71,7 +64,9 @@ TextGraphs-13 Shared Task on Multi-Hop Inference Explanation Regeneration
 <details><summary><b>Overview</b></summary>
 <p>
 
-Multi-hop inference is the task of combining more than one piece of information to solve an inference task, such as question answering.  This can take many forms, from combining free-text sentences read from books or the web, to combining linked facts from a structured knowledge base.  The Shared Task on Explanation Regeneration asks participants to develop methods to reconstruct gold explanations for elementary science questions, using a new corpus of gold explanations that provides supervision and instrumentation for this multi-hop inference task.  Each explanation is represented as an "explanation graph", a set of atomic facts (between 1 and 16 per explanation, drawn from a knowledge base of 5,000 facts) that, together, form a detailed explanation for the reasoning required to answer and explain the resoning behind a question.  Linking these facts to achieve strong performance at rebuilding the gold explanation graphs will require methods to perform multi-hop inference.  The explanations include both core scientific facts as well as detailed world knowledge, allowing this task to appeal to those interested in both multi-hop reasoning and common-sense inference.   
+Multi-hop inference is the task of combining more than one piece of information to solve an inference task, such as question answering. This can take many forms, from combining free-text sentences read from books or the web, to combining linked facts from a structured knowledge base.  
+
+The Explanation Regeneration shared task asked participants to develop methods to reconstruct gold explanations for elementary science questions (Clark et al., 2018), using a new corpus of gold explanations (Jansen et al., 2018) that provides supervision and instrumentation for this multi-hop inference task. Each explanation is represented as an “explanation graph”, a set of atomic facts (between 1 and 16 per explanation, drawn from a knowledge base of 5,000 facts) that, together, form a detailed explanation for the reasoning required to answer and explain the resoning behind a question. Linking these facts to achieve strong performance at rebuilding the gold explanation graphs requires methods to perform multi-hop inference - which has been shown to be far harder than inference of smaller numbers of hops (Jansen, 2018), particularly for the case here, where there is considerable uncertainty (at a lexical level) of how individual explanations logically link somewhat ‘fuzzy’ graph nodes. The explanations include both core scientific facts as well as detailed world knowledge, allowing this task to appeal to those interested in both multi-hop reasoning and common-sense inference.    
 
 #### The need for multi-hop inference in question answering
 
@@ -92,7 +87,7 @@ For this question, it's highly unlikely that one could find a passage in a corpu
 
 Combining each of these facts is often modeled as a graph traversal problem, where one must "hop" from some starting fact (say, fact 1) to other, related facts, until one has enough facts to infer the answer.  This is illustrated below: 
 
-![Example explanation graph](images/example-girl-eating-apple.jpg)
+![Example explanation graph](https://raw.githubusercontent.com/dchandak99/tg2020task/master/images/example-girl-eating-apple.jpg)  
 
 #### The need for explanations
 
