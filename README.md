@@ -71,7 +71,8 @@ Supplementary files including data and trained models can be found here (Link to
 
 - [RUN_model.ipynb](RUN_model.ipynb):  Invokes all of the above in an interactve format to show the resulting MAP.  
 
-### How to Run:  
+### How to Run:
+Make sure the directory structure is as shown in above. Download the following folders and put it in the directory: [saved models](https://drive.google.com/drive/folders/10-Udk-NZkjraPDwyMv316Up-wHVuPknD?usp=sharing), [results](https://drive.google.com/drive/folders/1T2jpRy6ahWoIZ5204fKJtuU6OXQZy6zb?usp=sharing), [predictions](https://drive.google.com/drive/folders/1o3N1Qa7Z2eT7LiWSmktKkXCRxCKIbLcg?usp=sharing), [data](https://drive.google.com/drive/folders/10TSLkeeYkMbcp8JSSLx8ChD-w8Ss_Ogs?usp=sharing),
 Instructions on how to run, and meaning of the functions have been given in this interative [notebook](RUN_model.ipynb).
 
 
