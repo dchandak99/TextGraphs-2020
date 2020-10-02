@@ -23,18 +23,18 @@ The results have been in terms of the **MAP** (mean average precision) scores.
 
 |  Method/Model    | Train     | Dev    | Test     | 
 |------------------|-----------|--------|----------|
-|    tf hub        |     0.321 |   0.34 |     0.31 |
-|Sentence BERT     |     0.24  |  0.253 |          |
-|tf-idf (sublinear)|           |  0.343 |     0.33 |
+|Roberta(Optimized)|   0.7210  | 0.5184 | 0.5061   |
+|    Roberta       |   0.6708  | 0.5062 | 0.4902   |
+|    BART          |   0.7167  | 0.5036 | 0.4865   |
+|tf-idf (sublinear)|           |  0.343 | 0.33     |
 | Recursive tf.idf |           |  0.477 |          |
 |    BERT          |   0.6359  |        |          |
-|    BART          |   0.7167  | 0.5036 | 0.4865   |
 |   Distilbert     |   0.605   |        |          |
 |    Scibert       |   0.6544  |        |          |
-|    Roberta       |   0.6708  | 0.5062 | 0.4902   |
 |    Electra       |   0.6143  |        |          |
-|Roberta(optimized)|   0.7210  | 0.5184 | 0.5061   |
 |    Albert        |   0.6280  |        |          |
+|    tf hub        |   0.321   | 0.34   | 0.31     |
+|  Sentence BERT   |   0.24    | 0.253  |          |
 
 Our Final Leaderboard Test MAP: **0.4902**
 
