@@ -27,13 +27,14 @@ The results have been in terms of the **MAP** (mean average precision) scores.
 |Sentence BERT     |     0.24  |  0.253 |          |
 |tf-idf (sublinear)|           |  0.343 |     0.33 |
 | Recursive tf.idf |           |  0.477 |          |
-|    BERT          |           |        |          |
-|    BART          |   0.67    |        |          |
+|    BERT          |   0.6359  |        |          |
+|    BART          |   0.7167  | 0.5036 | 0.4865   |
 |   Distilbert     |   0.605   |        |          |
-|    Scibert       |   0.63    |        |          |
-|    Roberta       |   0.63    |        |          |
-|  Bert_classifier |   0.63    |        |          |
-|    Electra       |   0.63    |        |          |
+|    Scibert       |   0.6544  |        |          |
+|    Roberta       |   0.6708  | 0.5062 | 0.4902   |
+|    Electra       |   0.6143  |        |          |
+|Roberta(optimized)|   0.7210  | 0.5184 | 0.5061   |
+|    Albert        |   0.6280  |        |          |
 
 Our Final Leaderboard Test MAP: **0.4902**
 
