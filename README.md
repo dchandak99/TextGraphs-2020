@@ -42,29 +42,19 @@ Our Final Leaderboard Test MAP: **0.4902**
 Ensure the following directory structure:
 
 ```bash
-├── annotation/ (same as the annotation directory in the data set)
-├── questions/
-|    ├── ARC-Elementary+EXPL-Train.tsv
-|    ├── ARC-Elementary+EXPL-Dev.tsv
-|    ├── ARC-Elementary+EXPL-Test-Masked.tsv
-|    ├── all_facts.tsv
-|    └── fact_usage_frequency.pkl
-├── fact_graph/ (unzip the zip file provided)
+├── results/
+├── data/
+|    ├── annotation
+|    ├── raw
+|    └── word embedding
 ├── predictions/
+├── RUN_model.ipynb
 ├── README.md
-├── run_best_settings.sh
-├── bert_reranker.py
-├── bert_path_ranker.py
-├── ensemble.py
-├── evaluate.py
-├── baseline_tfidf.py
-├── Makefile
-├── images/
-├── cfp.txt
-├── worldtree_corpus.sha256
-├── requirements.txt
+├── path.py
+├── rank.py
+├── train_and_eval_functions.py
+├── utils.py
 └── LICENSE
-
 ```
 
 ### File descriptions:  
