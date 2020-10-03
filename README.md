@@ -14,7 +14,7 @@ Official repository of the task can be found [here](https://github.com/cognitive
 5. [Acknowledgements](#acknowledgements)
 
 ## System Description Paper  
-Our paper can be found [here]().  
+Our paper can be found [here](https://drive.google.com/file/d/1Dw-xHANOpHaNHW7v-DlZVQes3Uv3Saot/view?usp=sharing).  
 Our presentation for the conference can be found [here]().
 
 ## Results  
@@ -58,6 +58,7 @@ Ensure the following directory structure:
 ```
 
 ### File descriptions:  
+Supplementary files including data and trained models can be found [here](https://drive.google.com/drive/u/2/folders/1_wfQNsSYHAtbbrf6AXTLdA8JaFzRM3KF).  
 
 - [baseline_model.py](baseline_model.py):  Uses a baseline that uses a term frequency model (tf.idf) to rank how likely table row sentences are to be a part of a given explanation. The performance of this baseline on the development partition is 0.255 MAP.  
 
