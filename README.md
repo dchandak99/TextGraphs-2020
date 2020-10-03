@@ -36,7 +36,8 @@ The results have been in terms of the **MAP** (mean average precision) scores.
 |    tf hub        |   0.321   | 0.34   | 0.31     |
 |  Sentence BERT   |   0.24    | 0.253  |          |
 
-Our Final Leaderboard Test MAP: **0.4902**
+Our Final Leaderboard Test MAP: **0.4902**  
+Post Evaluation Leaderboard Test MAP: **0.5061**
 
 ## Reproducing Results  
 Ensure the following directory structure:
