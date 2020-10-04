@@ -358,4 +358,4 @@ You agree not to use or redistribute the shared task data except in the manner p
 
 ## Acknowledgements  
 A huge thanks to the organizers Peter Jansen and Dmitry Ustalov for creating this wonderful task.  
-A big thanks to **Hugging Face** for their excellent [transformers](https://github.com/huggingface/transformers) repository. A lot of the code is built on top of their examples.
+Additionally, we would like to extend a big thanks to the makers and maintainers of the excellent [HuggingFace](https://github.com/huggingface/transformers) repository, without which most of our research would have been impossible.
