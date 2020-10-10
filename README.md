@@ -35,20 +35,18 @@ The results have been in terms of the **MAP** (mean average precision) scores.
 
 ### Final Results:  
 
-|  Method/Model    | Train     | Dev    | Test     | 
-|------------------|-----------|--------|----------|
-|Roberta(Optimized)|   0.7210  | 0.5184 | 0.5061   |
-|    Roberta       |   0.6708  | 0.5062 | 0.4902   |
-|    BART          |   0.7167  | 0.5036 | 0.4865   |
-|tf-idf (sublinear)|           |  0.343 | 0.33     |
-| Recursive tf.idf |           |  0.477 |          |
-|    BERT          |   0.6359  |        |          |
-|   Distilbert     |   0.605   |        |          |
-|    Scibert       |   0.6544  |        |          |
-|    Electra       |   0.6143  |        |          |
-|    Albert        |   0.6280  |        |          |
-|    tf hub        |   0.321   | 0.34   | 0.31     |
-|  Sentence BERT   |   0.24    | 0.253  |          |
+|  Model           | Num Param | Batch Size| top_k    | Train MAP | Dev MAP | Test MAP | 
+|------------------|-----------|-----------|----------|-----------|---------|----------|
+|Roberta(Optimized)|   355M    | 256       | 500      | 0.7210    | 0.5184  | 0.5061   |
+|    Roberta       |   355M    | 256       | 500      | 0.6708    | 0.5062  | 0.4902   |
+|    Roberta       |   355M    | 256       | 100      | 0.6182    | 0.4800  | 0.4798   |
+| BART             |   406M    |  128      | 300      | 0.7167    | 0.5036  | 0.4865   |
+| BART             |   406M    |  32       | 100      | 0.6708    | 0.4670  | 0.4769   |
+|    SciBERT       |   110M    |  256      | 100      | 0.6544    | 0.4950  | 0.4855   |
+|   ELECTRA        |   355M    |  128      | 100      | 0.6143    | 0.4943  | 0.4854   |
+|    ALBERT        |   223M    |  32       |   100    | 0.6280    | 0.4813  | 0.4731   |
+|    DistilBERT    |   134M    |  256      |   100    | 0.6049    | 0.4793  | 0.4641   |
+|    BERT          |   110M    | 256       |  150     | 0.5886    | 0.4609  | 0.4506   |
 
 Our Final Leaderboard Test MAP: **0.4902**  
 Post Evaluation Leaderboard Test MAP: **0.5061**
