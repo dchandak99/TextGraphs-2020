@@ -23,6 +23,18 @@ Our presentation for the conference can be found [here]().
 Results of different models on the test, train and dev dataset can be found here:
 The results have been in terms of the **MAP** (mean average precision) scores.  
 
+### Initial scores using only pre-processing and TFIDF:  
+|  Method             | MAP Score |
+|---------------------|-----------|
+| TFIDF + preproc     |   0.3850  | 
+|sublinear + preproc  |   0.4080  | 
+|binary + preproc     |   0.4267  |
+|recursive            |  0.4429   |  
+|sublinear + recursive|   0.4429  | 
+|binary + recursive   |   0.4430  | 
+
+### Final Results:  
+
 |  Method/Model    | Train     | Dev    | Test     | 
 |------------------|-----------|--------|----------|
 |Roberta(Optimized)|   0.7210  | 0.5184 | 0.5061   |
