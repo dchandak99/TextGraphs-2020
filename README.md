@@ -35,7 +35,7 @@ The results have been in terms of the **MAP** (mean average precision) scores.
 
 ### Final Results:  
 
-|  Model            | Num Param | Batch Size| top_k    | Train MAP | Dev MAP | Test MAP | 
+|  Model            | Num Params| Batch Size| top_k    | Train MAP | Dev MAP | Test MAP | 
 |-------------------|-----------|-----------|----------|-----------|---------|----------|
 |Roberta (Optimized)|   355M    | 256       | 500      | 0.7210    | 0.5184  | 0.5061   |
 |    Roberta        |   355M    | 256       | 500      | 0.6708    | 0.5062  | 0.4902   |
