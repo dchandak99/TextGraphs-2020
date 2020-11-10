@@ -17,6 +17,8 @@ Official repository of the task can be found [here](https://github.com/cognitive
 
 ## System Description Paper  
 Our paper can be found [here](https://drive.google.com/file/d/1Dw-xHANOpHaNHW7v-DlZVQes3Uv3Saot/view?usp=sharing).  
+Suplementary material for the paper can be found [here]().  
+Our poster for the conference can be found [here]().  
 Our presentation for the conference can be found [here]().
 
 ## Results  
