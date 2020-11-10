@@ -16,9 +16,9 @@ Official repository of the task can be found [here](https://github.com/cognitive
 5. [Acknowledgements](#acknowledgements)
 
 ## System Description Paper  
-Our paper can be found [here](https://drive.google.com/file/d/1Dw-xHANOpHaNHW7v-DlZVQes3Uv3Saot/view?usp=sharing).  
-Suplementary material for the paper can be found [here]().  
-Our poster for the conference can be found [here]().  
+Our paper can be found [here](https://drive.google.com/file/d/1QucarW_8psilFJjDmH4VqslWWQ4TLGFq/view?usp=sharing).  
+Suplementary material for the paper can be found [here](https://drive.google.com/file/d/1Dw-xHANOpHaNHW7v-DlZVQes3Uv3Saot/view?usp=sharing).  
+Our poster for the conference can be found [here](https://drive.google.com/file/d/1r0QFrKsguBMCWPtnNYGpwD-7ron292Uw/view?usp=sharing).  
 Our presentation for the conference can be found [here]().
 
 ## Results  
