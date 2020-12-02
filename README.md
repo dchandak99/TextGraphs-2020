@@ -19,7 +19,8 @@ Official repository of the task can be found [here](https://github.com/cognitive
 Our paper can be found [here](https://drive.google.com/file/d/1QucarW_8psilFJjDmH4VqslWWQ4TLGFq/view?usp=sharing).  
 Suplementary material for the paper can be found [here](https://drive.google.com/file/d/1Dw-xHANOpHaNHW7v-DlZVQes3Uv3Saot/view?usp=sharing).  
 Our poster for the conference can be found [here](https://drive.google.com/file/d/1r0QFrKsguBMCWPtnNYGpwD-7ron292Uw/view?usp=sharing).  
-Our presentation for the conference can be found [here]().
+  
+Official publication can be found [here](https://www.aclweb.org/anthology/2020.textgraphs-1.12/).  
 
 ## Results  
 Results of different models on the test, train and dev dataset can be found here:
